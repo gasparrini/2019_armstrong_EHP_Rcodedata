@@ -1,9 +1,9 @@
 
-### Updated R code from Armstrong EHP 2019
+### An assessment of the role of humidity in associations between temperature and mortality
 
 --------------------------------------------------------------------------------
 
-An assessment of the role of humidity in associations between temperature and mortality. The simplified example replicates the analysis in:
+This simplified example replicates the analysis in:
 
 Armstrong B, Sera F, Vicedo-Cabrera AM, Abrutzky R, Astrom DO, Bell ML, Chen BY, de Sousa Zanotti Stagliorio Coelho M, Correa PM, Dang TN, Diaz MH, Dung DV, Forsberg B, Goodman P, Guo YL, Guo Y, Hashizume M, Honda Y, Indermitte E, Iniguez C, Kan H, Kim H, Kysely J, Lavigne E, Michelozzi P, Orru H, Ortega NV, Pascal M, Ragettli MS, Saldiva PHN, Schwartz J, Scortichini M, Seposo X, Tobias A, Tong S, Urban A, De la Cruz Valencia C, Zanobetti A, Zeka A, Gasparrini A. The role of humidity in associations of high temperature with mortality: a multicountry multicity study. *Environmental Health Perspective*. 2019;**127**(9):097007. [[freely available here](http://www.ag-myresearch.com/2019_armstrong_ehp.html)]
 
